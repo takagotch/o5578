@@ -1,3 +1,12 @@
+### https://takagotch.github.io/page426/
+---
+
+
+
+```
+```
+
+---
 [twitter]: http://twitter.com/raintek_
 [demo]: https://rainner.github.io/ajax/
 [mit]: http://www.opensource.org/licenses/mit-license.php
